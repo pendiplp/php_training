@@ -7,7 +7,7 @@ exit;
 
 class pendiDateTime extends DateTime
 {
-	public $format;
+	private $format;
 	public $tes;
 	public $date;
 	public $today;
